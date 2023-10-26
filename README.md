@@ -4,4 +4,4 @@
 
 #Diário de bordo 
 
-Página 26
+Página 75 atividade 12
