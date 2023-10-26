@@ -4,4 +4,5 @@
 
 #Diário de bordo 
 
-Página 75 atividade 12
+25/10/2023 - criação de links internos e externos e formulários
+
