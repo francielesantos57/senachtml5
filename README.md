@@ -4,5 +4,9 @@
 
 #Diário de bordo 
 
-25/10/2023 - criação de links internos e externos e formulários
+25/10/2023 
+criação de links internos e externos e formulários.
+
+26/10/2023 
+Criando um currículo usando as tags ul, li, hr, dl, dt e dd.
 
