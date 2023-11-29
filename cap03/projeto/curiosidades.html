@@ -8,6 +8,7 @@
 <meta charset="utf-8">
 
 <title>Meu amigo cão - Petshop</title>
+<link href="estilos/principal.css" rel="stylesheet" type="text/css">
 <style>
     h2{
         background-color: #C0262C;
@@ -58,7 +59,7 @@
         /* definir a variável de contagem */
         counter-reset: contador;
     }
-    ol{
+    ol li:before{
         color: #999999;
         /*incrementar a variável em 1*/
         counter-increment: contador;
@@ -71,9 +72,32 @@
         font-weight: bold;
         padding: 7px;
     }
-    ul li a:hover{
+    ul li a:hover {
         text-decoration: underline;
     }
+    dd a[target="_blank"] {
+        text-decoration: none;
+        color: #C0262C;
+        font-weight: bold;
+        padding: 7px;
+        display: inline-block;
+    }
+    dd a[target="_blank"]:hover {
+        text-decoration: underline;
+    }
+    dd a[href="#top"] {
+        text-decoration: none;
+        color: #C0262C;
+        font-weight: bold;
+        padding: 7px 0 7px 30px;
+        background: url(multimidia/seta-voltar.png) no-repeat left center;
+    }
+    dd a[href="#top"]:hover {
+        text-decoration: underline;
+        background: url(multimidia/seta-voltar-hover.png) no-repeat left center;
+    }
+    
+    
 </style>
 
 </head>
